@@ -23,9 +23,6 @@
 	fetch="https://github.com/touchbuntu"
 	revision="refs/heads/halium-7.1" />
 	
-  <remote name="sony"
-	fetch="https://github.com/sonyxperiadev" />
-
   <default remote="aosp"
            sync-j="6" />
 
